@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25a6b3d3-eb03-46aa-951e-aeaadc184bf5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/com/example/capstone/Capstone.java" afterPath="$PROJECT_DIR$/platforms/android/src/com/example/capstone/Capstone.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Capstone.iws" />
@@ -79,7 +80,7 @@
       <file leaf-file-name="Capstone.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/platforms/android/src/com/example/capstone/Capstone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="32" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.56173915" vertical-offset="0" max-vertical-offset="575">
+            <state line="36" column="36" selection-start="1389" selection-end="1389" vertical-scroll-proportion="0.5947826" vertical-offset="0" max-vertical-offset="575">
               <folding />
             </state>
           </provider>
@@ -121,8 +122,8 @@
       <list>
         <option value="$PROJECT_DIR$/platforms/android/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/platforms/android/src/com/example/capstone/MyView.java" />
-        <option value="$PROJECT_DIR$/platforms/android/src/com/example/capstone/Capstone.java" />
         <option value="$PROJECT_DIR$/platforms/android/src/com/example/capstone/TouchView.java" />
+        <option value="$PROJECT_DIR$/platforms/android/src/com/example/capstone/Capstone.java" />
       </list>
     </option>
   </component>
@@ -437,7 +438,11 @@
       <created>1396258839738</created>
       <updated>1396258839738</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First Commit&#10;">
+      <created>1396258901479</created>
+      <updated>1396258901479</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -776,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/src/com/example/capstone/Capstone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="32" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.56173915" vertical-offset="0" max-vertical-offset="575">
+        <state line="36" column="36" selection-start="1389" selection-end="1389" vertical-scroll-proportion="0.5947826" vertical-offset="0" max-vertical-offset="575">
           <folding />
         </state>
       </provider>

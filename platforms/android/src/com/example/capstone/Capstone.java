@@ -34,6 +34,7 @@ public class Capstone extends CordovaActivity
         //super.loadUrl("file:///android_asset/www/index.html");
 
         setContentView(new TouchView(this));
+        System.out.println("asdas");
 
     }
 }
