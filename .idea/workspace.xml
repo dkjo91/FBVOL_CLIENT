@@ -11,265 +11,8 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25a6b3d3-eb03-46aa-951e-aeaadc184bf5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/android/AccelListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/www/Acceleration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/wp/Accelerometer.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/tizen/AccelerometerProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/windows8/AccelerometerProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/wp/Battery.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/android/BatteryListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/tizen/BatteryStatusProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/ios/CDVAccelerometer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/ios/CDVAccelerometer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ios/CDVAssetLibraryFilesystem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ios/CDVAssetLibraryFilesystem.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/ios/CDVBattery.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/ios/CDVBattery.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/ios/CDVCompass.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/ios/CDVCompass.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/ios/CDVConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/ios/CDVConnection.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/ios/CDVDevice.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/ios/CDVDevice.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ios/CDVFile.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ios/CDVFile.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/ios/CDVFileTransfer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/ios/CDVFileTransfer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ios/CDVLocalFilesystem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ios/CDVLocalFilesystem.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/ios/CDVLocation.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/ios/CDVLocation.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/src/ios/CDVLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/src/ios/CDVLogger.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/ios/CDVReachability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/ios/CDVReachability.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/wp/Compass.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/www/CompassError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/www/CompassHeading.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/android/CompassListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/tizen/CompassProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/windows8/CompassProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/www/Connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/ContentFilesystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/www/Coordinates.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/amazon/CordovaLocationListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/android/CordovaLocationListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/src/wp/DebugConsole.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/wp/Device.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/android/Device.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/firefoxos/DeviceProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/tizen/DeviceProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/windows8/DeviceProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/DirectoryEntry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/DirectoryEntry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/ubuntu/DirectoryEntry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/DirectoryManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/DirectoryReader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/DirectoryReader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/EncodingException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/Entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/Entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/ios/Entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/ubuntu/Entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/wp/File.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/File.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/File.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/FileEntry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/FileEntry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/FileError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/FileExistsException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/FileHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/android/FileProgressResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/windows8/FileProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/FileReader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/FileReader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/FileSystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/android/FileSystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/FileSystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/ios/FileSystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/wp/FileTransfer.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/amazon/FileTransfer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/android/FileTransfer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/www/FileTransfer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/www/blackberry10/FileTransfer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/www/FileTransferError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/www/windows8/FileTransferProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/FileUploadOptions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/wp/FileUploadOptions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/android/FileUploadResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/FileUploadResult.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/FileWriter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/FileWriter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/ubuntu/FileWriter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/Filesystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/Flags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/amazon/GPSListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/android/GPSListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/amazon/GeoBroker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/android/GeoBroker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/wp/GeoLocation.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/firefoxos/GeolocationProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/windows8/GeolocationProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/www/blackberry10/GeolocationProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/html/HtmlReporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/html/HtmlReporterHelpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/InvalidModificationException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/LocalFileSystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/LocalFilesystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/LocalFilesystemURL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/Metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/windows8/NetworkInfoProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/amazon/NetworkListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/android/NetworkListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/android/NetworkManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/firefoxos/NetworkProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/tizen/NetworkProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/wp/NetworkStatus.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/NoModificationAllowedException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/www/Position.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/www/PositionError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/ProgressEvent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/html/ReporterView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/html/SpecView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/html/SuiteView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/html/TrivialReporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/android/TypeMismatchException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/www/blackberry10/XHRImplementation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/ubuntu/accelerometer.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/ubuntu/accelerometer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/firefoxos/accelerometer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/www/accelerometer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/android.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/www/wp7/base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/ubuntu/battery.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/ubuntu/battery.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/www/battery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/ubuntu/compass.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/ubuntu/compass.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/firefoxos/compass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/www/compass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/www/console-via-logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/src/ubuntu/console.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/src/ubuntu/console.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/cordova-incl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/ubuntu/device.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/ubuntu/device.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/ubuntu/device.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/www/device.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/ubuntu/file-transfer.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/ubuntu/file-transfer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ubuntu/file.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/ubuntu/file.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/pages/file.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/tests/file.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/fileUtils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/ubuntu/geolocation.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/ubuntu/geolocation.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/www/geolocation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/www/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/master.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/www/network.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/ubuntu/network_information.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/ubuntu/network_information.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/src/org.apache.cordova.battery-status.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/src/org.apache.cordova.device-motion.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/src/org.apache.cordova.device-orientation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/org.apache.cordova.device.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/src/org.apache.cordova.file-transfer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/org.apache.cordova.file.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/src/org.apache.cordova.geolocation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.inappbrowser/src/org.apache.cordova.inappbrowser.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/src/org.apache.cordova.network-information.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.battery-status/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.console/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-motion/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device-orientation/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file-transfer/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.geolocation/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.network-information/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/doc/plugins.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/requestFileSystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/requestFileSystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/www/blackberry10/resolveLocalFileSystemURI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.file/test/autotest/test-runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="25a6b3d3-eb03-46aa-951e-aeaadc184bf5" name="Default" comment="First Commit&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Capstone.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -345,7 +88,7 @@
       <file leaf-file-name="TouchView.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/platforms/android/src/com/example/capstone/TouchView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="9" selection-start="2838" selection-end="2838" vertical-scroll-proportion="0.49551168" vertical-offset="1358" max-vertical-offset="2204">
+            <state line="76" column="4" selection-start="2219" selection-end="2219" vertical-scroll-proportion="0.36173913" vertical-offset="1122" max-vertical-offset="2204">
               <folding />
             </state>
           </provider>
@@ -384,8 +127,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1046" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -648,7 +393,11 @@
       <created>1396257631273</created>
       <updated>1396257631273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit&#10;">
+      <created>1396257853394</created>
+      <updated>1396257853394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -672,16 +421,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1046" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3232662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.336758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3232662" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31849316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -689,7 +439,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3413242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25754312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.255603" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -697,7 +447,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.336758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -716,7 +465,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="First Commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -986,7 +736,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/src/com/example/capstone/TouchView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="9" selection-start="2838" selection-end="2838" vertical-scroll-proportion="0.49551168" vertical-offset="1358" max-vertical-offset="2204">
+        <state line="76" column="4" selection-start="2219" selection-end="2219" vertical-scroll-proportion="0.36173913" vertical-offset="1122" max-vertical-offset="2204">
           <folding />
         </state>
       </provider>
